@@ -23,6 +23,6 @@ class Waiter
   end
   
   def best_tipper
-    
+    meals.each do 
   end
 end
